@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.cbtn {
+  border-radius: 50%;
+  width: 10px;
+  float: right;
+  height: 10px;
+  padding: 8px;
+  margin: 2px 30px 0px -20px;
+  border: 1px solid black;
+}
+
+#cyan {
+  background-color: cyan;
+}
+#skyblue {
+  background: skyblue;
+}
+#red {
+  background-color: red;
+}
+#black {
+  background-color: black;
+}
+#salmon {
+  background-color: salmon;
+}
+
+img {
+  width: 100%;
+  padding: 50px;
+}
+
+p {
+  text-align: justify;
+  padding: 50px;
+  font-size: large;
+  line-height: 1.5em;
+}
